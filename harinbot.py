@@ -10,9 +10,9 @@ harin_bot = App()
 # harin_bot.add("pdf_file", "https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf")
 # harin_bot.add("web_page", "https://nav.al/feedback")
 # harin_bot.add("web_page", "https://nav.al/agi")
-
 # Embed Local Resources
 # harin_bot.add_local("qna_pair", ("Who is Naval Ravikant?", "Naval Ravikant is an Indian-American entrepreneur and investor."))
+
 f = open("chatData/FullChat.txt", "r")
 whatsapp = f.read()
 f.close()
