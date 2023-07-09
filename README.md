@@ -40,6 +40,7 @@ A chatbot trained on all my messages and will respond like me.
 
 * Embedchain - Modified by me into a chatbot version
 * Open AI API - GPT
+* Open AI Embedding API
 * Hugging Face Embedding Models
 
 
